@@ -16,6 +16,20 @@
 
 ![devops-demo](https://github.com/user-attachments/assets/772a360f-1235-4bb9-a40e-bae6e144c1fe)
 
+---
+
+## 🌱 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Rahul241-Bhabad&color=green&style=flat-square)
+
+---
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahul241-Bhabad&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul241-Bhabad&layout=compact&theme=radical)
