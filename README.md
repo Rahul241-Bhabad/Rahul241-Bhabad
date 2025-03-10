@@ -26,13 +26,13 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Rahul241-Bhabad&color=green&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=rahulbhabad&color=green&style=flat-square)
 
 ---
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahul241-Bhabad&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul241-Bhabad&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulbhabad&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbhabas&layout=compact&theme=radical)
 
 
 
