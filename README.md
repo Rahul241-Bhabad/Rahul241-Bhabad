@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Rahul Bhabad!
+# 👋 Hello! I'm Rahul Bhabad!
 ---
 ## 🌐 Connect with Me:
 
