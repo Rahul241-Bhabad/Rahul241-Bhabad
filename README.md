@@ -32,7 +32,7 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulbhabad&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbhabas&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbhabad&layout=compact&theme=radical)
 
 
 
